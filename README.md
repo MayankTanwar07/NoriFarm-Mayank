@@ -45,7 +45,7 @@ XRISP-WEBAPP-DEVELOPMENT/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/MayankTanwar07/NoriFarm-Mayank>
 cd XRISP-WEBAPP-DEVELOPMENT
 
 # Install dependencies
